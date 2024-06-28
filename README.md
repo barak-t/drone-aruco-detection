@@ -11,3 +11,6 @@ The video can be process faster by changing the parameter 'running_rate' to bigg
 
 This repo have 3 example videos, csv export for the 'challengeB.mp4' and it's output video.
 
+<img width="961" alt="image" src="https://github.com/barak-t/drone-aruco-detection/assets/64011788/924b8b26-3aee-4cad-982a-83ed7d278934">
+
+<img width="962" alt="image" src="https://github.com/barak-t/drone-aruco-detection/assets/64011788/be507414-1930-4e65-88c7-e0433d6fdc72">
